@@ -1,4 +1,8 @@
-# Trie Auto complete 
-A simple implementation of Trie datastructure to auto complete words.
+TO RUN THE PROJECT FOLLOW THESE STEPS:
 
-demo of the project can be found [here.](https://youtu.be/Bo379wBWosc) 
+- Download the zip file and extract it.
+- Open terminal (linux) or command prompt (windows) on your computer.
+- Navigate to the directory that contains the extracted files using cd.
+- Type the following commands to run the program:
+  - g++ Pro.cpp
+  - ./a.out
